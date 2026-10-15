@@ -1,0 +1,9 @@
+package in.kumarelectrical.contractor;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class KumarElectricalApplication {
+    public static void main(String[] args) { SpringApplication.run(KumarElectricalApplication.class, args); }
+}
